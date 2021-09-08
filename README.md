@@ -12,5 +12,5 @@
 
 ### 公众号
 
-![vueyue](https://user-images.githubusercontent.com/89377151/130404470-257f9bb5-6aa1-4e6d-9cf1-b8d06ce91900.png)
+<img width="500" alt="前端YUE" src="https://user-images.githubusercontent.com/89377151/130404470-257f9bb5-6aa1-4e6d-9cf1-b8d06ce91900.png">
 
